@@ -1,4 +1,4 @@
-## Hey there, My name is Carlos! 👋🏽
+## Hey there! My name is Carlos 👋🏽
 
 ### Front-end devoloper
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Eduardo;I'm+19+years+old;I'm+from+Brazil;I'm+a+Front-end+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br> 🙋🏽‍♂️
