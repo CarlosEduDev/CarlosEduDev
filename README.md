@@ -7,6 +7,7 @@
 
 ### My portifolio 👇🏽
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-310a5a255/)
 [![Portifólio](https://img.shields.io/badge/WebSite-0077B5?style=for-the-badge&logo=website&logoColor=white)]([https://www.linkedin.com/in/carlos-eduardo-310a5a255/](https://portifolio-carlos-eduardo.netlify.app/))
 
