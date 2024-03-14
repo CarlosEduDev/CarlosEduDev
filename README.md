@@ -8,7 +8,7 @@
 ### My portifolio 👇🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-310a5a255/)
-[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carlosedudev.github.io/Portifolio-Carlos/)
+[![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://carlosedudev.github.io/Portifolio-Carlos/](https://portifolio-carlos-eduardo.netlify.app/))
 
 ### My email:
 📧 carloseduardoevang@gmail.com
