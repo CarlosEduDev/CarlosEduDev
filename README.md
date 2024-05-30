@@ -1,7 +1,7 @@
 ## Hey there! My name is Carlos 👋🏽
 
 ### Front-end devoloper
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Eduardo;I'm+19+years+old;I'm+from+Brazil;I'm+a+Front-end+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845ef7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+Eduardo;I'm+19+years+old;I'm+from+Brazil;I'm+a+Software+Developer;The+future+is+today;Be+Welcome!+:%29)](https://git.io/typing-svg)<br>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
