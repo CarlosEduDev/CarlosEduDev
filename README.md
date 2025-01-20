@@ -15,6 +15,8 @@
 ### My email:
 📧 carloseduardoevang@gmail.com
 
+### Currículo lates: http://lattes.cnpq.br/7648810465510265
+
 ![CarlosEduDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduDev&show_icons=true&theme=tokyonight)
 
 ### Tech stack 🪛💻:
